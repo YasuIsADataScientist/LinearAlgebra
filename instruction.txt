@@ -1,0 +1,20 @@
+Linear Algebra calculator    INSTRUCTION
+
+This software is developed to execute matrix operation on command line.
+
+When the program starts, CSV files in the same directory of this Python file are loaded and converted to matrices.
+
+List of commands:
++ : Add two matrices.
+- : Subtract the second matrix from the first matrix.
+kA : Find the scalar product.
+* : Multiply two matrices.
+t : Transpose a matrix.
+d : Display all matrices in the list.
+v : Load CSV file and convert to matrix.
+x : Delete a matrix from the list.
+n : Export a matrix to CSV file.
+help : Display this instruction.
+exit : End the program.
+
+Copyright 2021 by Takeuchi Yasuharu. All rights reserved.
